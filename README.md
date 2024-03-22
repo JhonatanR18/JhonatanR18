@@ -9,3 +9,6 @@ A medida que sigo avanzando en mi viaje en el desarrollo Full Stack, estoy const
 - JavaScript: Utilizo JavaScript para crear interactividad en mis aplicaciones web, desde validación de formularios hasta animaciones y efectos visuales.
 - HTML: Con HTML, estructuro el contenido de mis páginas web, definiendo los elementos como encabezados, párrafos, listas y más.
 - CSS: Empleo CSS para diseñar y estilizar mis páginas web, controlando aspectos como el color, la tipografía, el diseño de la disposición y mucho más.
+## Habilidades
+- Resolución de Problemas: Como desarrollador, prospero resolviendo problemas complejos. Constantemente estoy explorando nuevas tecnologías y enfoques para abordar desafíos técnicos de manera efectiva.
+- Adaptabilidad: Soy capaz de adaptarme rápidamente a nuevos entornos y tecnologías, lo que me permite mantenerme ágil y eficiente en proyectos en constante evolución.
