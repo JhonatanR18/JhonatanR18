@@ -16,3 +16,8 @@ A medida que sigo avanzando en mi viaje en el desarrollo Full Stack, estoy const
 - Español (nativo)
 - Inglés (intermedio)
 - Francés (básico)
+## Pasatiempos
+- Bailar
+- Fotografía
+- Viajar
+- Practicar deportes
