@@ -12,3 +12,7 @@ A medida que sigo avanzando en mi viaje en el desarrollo Full Stack, estoy const
 ## Habilidades
 - Resolución de Problemas: Como desarrollador, prospero resolviendo problemas complejos. Constantemente estoy explorando nuevas tecnologías y enfoques para abordar desafíos técnicos de manera efectiva.
 - Adaptabilidad: Soy capaz de adaptarme rápidamente a nuevos entornos y tecnologías, lo que me permite mantenerme ágil y eficiente en proyectos en constante evolución.
+## Idiomas
+- Español (nativo)
+- Inglés (intermedio)
+- Francés (básico)
